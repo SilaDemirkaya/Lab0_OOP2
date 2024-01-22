@@ -1,0 +1,14 @@
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\bin\Debug\Lab0.exe.config
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\bin\Debug\Lab0.exe
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\bin\Debug\Lab0.pdb
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\obj\Debug\Lab0.csproj.AssemblyReference.cache
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\obj\Debug\Lab0.csproj.CoreCompileInputs.cache
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\obj\Debug\Lab0.exe
+C:\Users\silad\OneDrive\Desktop\OOP2-Newproject\Lab0\Lab0\obj\Debug\Lab0.pdb
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\bin\Debug\Lab0.exe.config
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\bin\Debug\Lab0.exe
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\bin\Debug\Lab0.pdb
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\obj\Debug\Lab0.csproj.AssemblyReference.cache
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\obj\Debug\Lab0.csproj.CoreCompileInputs.cache
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\obj\Debug\Lab0.exe
+C:\Users\silad\OneDrive\Desktop\Lab0\Lab0\obj\Debug\Lab0.pdb
